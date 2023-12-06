@@ -1,0 +1,17 @@
+/* global.css */
+
+/* Resetting some default styles */
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/* Setting a default font family */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+
